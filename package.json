@@ -1,0 +1,8 @@
+{
+  "name": "konfetka-next",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Slava Bezgachev",
+  "license": "MIT",
+  "repository": "git@github.com:skazka-kz/konfetka-fe.git"
+}
